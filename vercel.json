@@ -1,9 +1,8 @@
 {
-  "version": 2,
-  "functions": {
-    "api/doprava.js": {
-      "runtime": "nodejs18.x"
-    }
+  "name": "shoptet-widget",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
-
