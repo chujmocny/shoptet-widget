@@ -1,3 +1,4 @@
+const API_KEY = process.env.SEZNAM_KEY;
 import fetch from "node-fetch";
 
 export default async function handler(req, res) {
